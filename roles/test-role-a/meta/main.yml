@@ -2,9 +2,9 @@
 galaxy_info:
   author: Alexande Saprykin
   description: Role for testing Ansible Galaxy
-  company: ACME
+  company:
 
-  license: MIT
+  license:
 
   platforms:
     - name: Ubuntu
