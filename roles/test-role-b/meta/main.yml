@@ -14,7 +14,7 @@ galaxy_info:
   # - GPLv3
   # - Apache
   # - CC-BY
-  license: Apache
+  license: license (GPLv2, CC-BY, etc)
 
   min_ansible_version: 1.2
 
@@ -33,7 +33,7 @@ galaxy_info:
   # platforms is a list of platforms, and each platform has a name and a list of versions.
   #
   platforms:
-  - name:
+  - name: Fedora
     versions:
     - 27
   - name: Debian
